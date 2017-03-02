@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/kc_preview_layout"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/black"
+                android:visibility="visible">
+
+    <ImageView
+            android:id="@+id/preview_imgview"
+            android:layout_width="match_parent"
+            android:contentDescription="@string/preview_image"
+            android:layout_height="match_parent"/>
+
+    <RelativeLayout
+            android:id="@+id/preview_bottom_layer"
+            android:layout_width="match_parent"
+            android:layout_alignParentBottom="true"
+            android:background="@color/white_trancy_color"
+            android:padding="1dp"
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:layout_height="115dp">
+
+        <include
+                android:id="@+id/audio_recording_layout"
+                layout="@layout/audio_recording_layout"
+                android:layout_width="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_centerInParent="true"
+                android:layout_height="wrap_content"></include>
+
+
+        <TextView
+                android:id="@+id/save"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:visibility="visible"
+                android:text="@string/fa_check_circle"
+                android:textSize="70sp"
+                android:textColor="@color/preview_blue_button"
+                android:layout_marginTop="34dp"
+                android:layout_marginBottom="5dp"
+                android:contentDescription="@string/save_image"
+        />
+        <TextView
+                android:text="@string/retake"
+                android:id="@+id/retake_label"
+                android:layout_width="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="@dimen/retake_left_margin"
+                android:layout_marginRight="@dimen/retake_left_margin"
+                android:textColor="@color/preview_blue_button"
+                android:paddingBottom="5dp"
+                android:textStyle="normal"
+                android:textSize="@dimen/text_size_15"
+                android:layout_height="wrap_content"
+        />
+        <TextView
+                android:id="@+id/retake"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_above="@id/retake_label"
+                android:layout_alignParentLeft="true"
+                android:paddingTop="@dimen/retake_padding"
+                android:paddingLeft="@dimen/retake_left_padding"
+                android:paddingRight="@dimen/retake_padding"
+                android:textColor="@color/preview_blue_button"
+                android:textStyle="normal"
+                android:text="@string/fa_repeat"
+                android:textSize="@dimen/text_size_26"
+                android:layout_height="wrap_content"
+        />
+        <TextView
+                android:text="@string/discard"
+                android:id="@+id/discard_label"
+                android:layout_width="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="@dimen/retake_left_margin"
+                android:layout_marginRight="@dimen/retake_left_margin"
+                android:textColor="@color/preview_blue_button"
+                android:paddingBottom="5dp"
+                android:textStyle="normal"
+                android:textSize="@dimen/text_size_15"
+                android:layout_height="wrap_content"
+        />
+        <TextView
+                android:id="@+id/discard"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_above="@id/discard_label"
+                android:layout_alignParentRight="true"
+                android:paddingTop="@dimen/retake_padding"
+                android:paddingLeft="@dimen/retake_padding"
+                android:paddingRight="@dimen/retake_left_padding"
+                android:textColor="@color/preview_blue_button"
+                android:textStyle="normal"
+                android:text="@string/fa_close"
+                android:textSize="@dimen/text_size_26"
+                android:layout_height="wrap_content"
+        />
+    </RelativeLayout>
+
+
+    <!--bottom smart msg panel-->
+    <RelativeLayout android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@id/preview_bottom_layer"
+                    android:background="@color/grey_with_60_opacity_color"
+                    android:id="@+id/preview_loc_event_layout">
+        <include android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 layout="@layout/preview_edit_menu_layout"/>
+    </RelativeLayout>
+
+    <RelativeLayout android:layout_width="match_parent"
+                    android:id="@+id/audio_playbck_parent"
+                    android:background="@color/grey_with_60_opacity_color"
+                    android:layout_above="@id/preview_loc_event_layout"
+                    android:layout_height="wrap_content">
+        <include
+                android:id="@+id/audio_playbck_container"
+                layout="@layout/audio_playback"
+                android:layout_width="wrap_content"
+                android:gravity="center"
+                android:visibility="visible"
+                android:layout_marginLeft="@dimen/retake_left_margin"
+                android:layout_marginRight="@dimen/playbck_margin"
+                android:layout_marginTop="18dp"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content"></include>
+    </RelativeLayout>
+    <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:id="@+id/smrt_msg_row_parent"
+                    android:layout_marginTop="5dp"
+                    android:layout_above="@+id/audio_playbck_parent"
+                    android:background="@color/grey_with_60_opacity_color"
+                    android:layout_height="@dimen/smartmsg_menu_option">
+        <TextView android:id="@+id/smrt_msg_tag_icon"
+                  android:layout_width="wrap_content"
+                  android:layout_height="match_parent"
+                  android:gravity="center_vertical"
+                  android:layout_alignParentLeft="true"
+                  android:layout_marginRight="@dimen/preview_icon_text_space"
+                  android:text="@string/fa_edit"
+                  android:layout_marginLeft="@dimen/smartmsg_menu_option_spacing"
+                  android:textColor="@color/preview_msg_tag_color"
+                  android:textSize="18dp"/>
+        <TextView android:id="@+id/smrt_msg_edit_icon"
+                  android:layout_width="wrap_content"
+                  android:layout_height="match_parent"
+                  android:layout_alignParentRight="true"
+                  android:gravity="center_vertical"
+                  android:layout_marginRight="@dimen/smartmsg_menu_option_spacing"
+                  android:text="@string/fa_pencil"
+                  android:textColor="@color/preview_msg_tag_color"
+                  android:textSize="18dp"/>
+
+        <TextView android:id="@+id/smrt_msg_value_text"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_toRightOf="@id/smrt_msg_tag_icon"
+                  android:layout_marginLeft="10dp"
+                  android:layout_marginRight="5dp"
+                  android:scrollHorizontally="true"
+                  android:layout_centerHorizontal="true"
+                  android:maxLines="1"
+                  android:gravity="center_vertical"
+                  android:textColor="@color/preview_msg_text_color"
+                  android:textSize="@dimen/smart_msg_text_size"
+                  android:layout_toLeftOf="@id/smrt_msg_edit_icon"
+                  android:text="can anybody watch my dog ?"
+        />
+    </RelativeLayout>
+    <!--edit list screen-->
+    <RelativeLayout android:layout_width="match_parent"
+                    android:id="@+id/preview_edit_list_parent"
+                    android:visibility="gone"
+                    android:layout_height="match_parent">
+        <include android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 layout="@layout/preview_edit_list_layout"/>
+    </RelativeLayout>
+</RelativeLayout>

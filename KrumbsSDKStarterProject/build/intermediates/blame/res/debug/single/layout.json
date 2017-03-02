@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\intent_tab_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\intent_tab_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\amu_info_window.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\amu_text_bubble.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preview_edit_menu_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\preview_edit_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preview_smart_msg_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\preview_smart_msg_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\intent_theme_slider.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\intent_theme_slider.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_notification_mini.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_activity_notification_mini.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_question_card.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_question_card.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\kcamera_preview_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\kcamera_preview_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_middle_choice_answer.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_middle_choice_answer.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\newlayout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\newlayout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\krumbs_camera_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\krumbs_camera_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\count_frequency_history_gadget.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\count_frequency_history_gadget.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\top_places_maps_gadget.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\top_places_maps_gadget.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_notification_full.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_activity_notification_full.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\edit_list_row.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\edit_list_row.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\amu_webview.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.maps.android\\android-maps-utils\\0.4.4\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\audio_recording_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\audio_recording_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preview_edit_list_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\preview_edit_list_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\audio_playback.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\audio_playback.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_main_screen.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\toolbar_main_screen.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\top_intent_list_element.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\top_intent_list_element.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\k_circle_view.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\k_circle_view.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_first_choice_answer.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_first_choice_answer.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\top_intent_list_gadget.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\top_intent_list_gadget.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\intent_holder.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\intent_holder.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_last_choice_answer.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_last_choice_answer.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\dashboard_view_sdk.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\layout\\dashboard_view_sdk.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\com_mixpanel_android_activity_survey.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.mixpanel.android\\mixpanel-android\\4.7.0\\res\\layout\\com_mixpanel_android_activity_survey.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\preferences.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\preferences.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\navigation_user_header.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\navigation_user_header.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\main_screen_activity.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\main_screen_activity.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_item_prediction.xml"
+    }
+]

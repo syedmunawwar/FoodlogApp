@@ -1,0 +1,635 @@
+{
+  "place_type": [
+    {
+      "category_id": "1",
+      "category_name": "ACCOUNTING",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "2",
+      "category_name": "AIRPORT",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "3",
+      "category_name": "AMUSEMENT_PARK",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "4",
+      "category_name": "AQUARIUM",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "5",
+      "category_name": "ART_GALLERY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "6",
+      "category_name": "ATM",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "7",
+      "category_name": "BAKERY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "8",
+      "category_name": "BANK",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "9",
+      "category_name": "BAR",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "10",
+      "category_name": "BEAUTY_SALON",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "11",
+      "category_name": "BICYCLE_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "12",
+      "category_name": "BOOK_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "13",
+      "category_name": "BOWLING_ALLEY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "14",
+      "category_name": "BUS_STATION",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "15",
+      "category_name": "CAFE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "16",
+      "category_name": "CAMPGROUND",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "17",
+      "category_name": "CAR_DEALER",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "18",
+      "category_name": "CAR_RENTAL",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "19",
+      "category_name": "CAR_REPAIR",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "20",
+      "category_name": "CAR_WASH",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "21",
+      "category_name": "CASINO",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "22",
+      "category_name": "CEMETERY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "23",
+      "category_name": "CHURCH",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "24",
+      "category_name": "CITY_HALL",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "25",
+      "category_name": "CLOTHING_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "26",
+      "category_name": "CONVENIENCE_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "27",
+      "category_name": "COURTHOUSE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "28",
+      "category_name": "DENTIST",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "29",
+      "category_name": "DEPARTMENT_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "30",
+      "category_name": "DOCTOR",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "31",
+      "category_name": "ELECTRICIAN",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "32",
+      "category_name": "ELECTRONICS_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "33",
+      "category_name": "EMBASSY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "34",
+      "category_name": "ESTABLISHMENT",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "35",
+      "category_name": "FINANCE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "36",
+      "category_name": "FIRE_STATION",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "37",
+      "category_name": "FLORIST",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "38",
+      "category_name": "FOOD",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "39",
+      "category_name": "FUNERAL_HOME",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "40",
+      "category_name": "FURNITURE_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "41",
+      "category_name": "GAS_STATION",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "42",
+      "category_name": "GENERAL_CONTRACTOR",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "43",
+      "category_name": "GROCERY_OR_SUPERMARKET",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "44",
+      "category_name": "GYM",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "45",
+      "category_name": "HAIR_CARE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "46",
+      "category_name": "HARDWARE_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "47",
+      "category_name": "HEALTH",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "48",
+      "category_name": "HINDU_TEMPLE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "49",
+      "category_name": "HOME_GOODS_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "50",
+      "category_name": "HOSPITAL",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "51",
+      "category_name": "INSURANCE_AGENCY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "52",
+      "category_name": "JEWELRY_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "53",
+      "category_name": "LAUNDRY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "54",
+      "category_name": "LAWYER",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "55",
+      "category_name": "LIBRARY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "56",
+      "category_name": "LIQUOR_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "57",
+      "category_name": "LOCAL_GOVERNMENT_OFFICE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "58",
+      "category_name": "LOCKSMITH",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "59",
+      "category_name": "LODGING",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "60",
+      "category_name": "MEAL_DELIVERY",
+      "revgeo_provider": "google"
+    }
+  ,
+    {
+      "category_id": "61",
+      "category_name": "MEAL_TAKEAWAY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "62",
+      "category_name": "MOSQUE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "63",
+      "category_name": "MOVIE_RENTAL",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "64",
+      "category_name": "MOVIE_THEATER",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "65",
+      "category_name": "MOVING_COMPANY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "66",
+      "category_name": "MUSEUM",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "67",
+      "category_name": "NIGHT_CLUB",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "68",
+      "category_name": "PAINTER",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "69",
+      "category_name": "PARK",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "70",
+      "category_name": "PARKING",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "71",
+      "category_name": "PET_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "72",
+      "category_name": "PHARMACY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "73",
+      "category_name": "PHYSIOTHERAPIST",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "74",
+      "category_name": "PLACE_OF_WORSHIP",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "75",
+      "category_name": "PLUMBER",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "76",
+      "category_name": "POLICE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "77",
+      "category_name": "POST_OFFICE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "78",
+      "category_name": "REAL_ESTATE_AGENCY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "79",
+      "category_name": "RESTAURANT",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "80",
+      "category_name": "ROOFING_CONTRACTOR",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "81",
+      "category_name": "RV_PARK",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "82",
+      "category_name": "SCHOOL",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "83",
+      "category_name": "SHOE_STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "84",
+      "category_name": "SHOPPING_MALL",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "85",
+      "category_name": "SPA",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "86",
+      "category_name": "STADIUM",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "87",
+      "category_name": "STORAGE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "88",
+      "category_name": "STORE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "89",
+      "category_name": "SUBWAY_STATION",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "90",
+      "category_name": "SYNAGOGUE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "91",
+      "category_name": "TAXI_STAND",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "92",
+      "category_name": "TRAIN_STATION",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "93",
+      "category_name": "TRAVEL_AGENCY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "94",
+      "category_name": "UNIVERSITY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "95",
+      "category_name": "VETERINARY_CARE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "96",
+      "category_name": "ZOO",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1001",
+      "category_name": "ADMINISTRATIVE_AREA_LEVEL_1",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1002",
+      "category_name": "ADMINISTRATIVE_AREA_LEVEL_2",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1003",
+      "category_name": "ADMINISTRATIVE_AREA_LEVEL_3",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1004",
+      "category_name": "COLLOQUIAL_AREA",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1005",
+      "category_name": "COUNTRY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1006",
+      "category_name": "FLOOR",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1007",
+      "category_name": "GEOCODE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1008",
+      "category_name": "INTERSECTION",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1009",
+      "category_name": "LOCALITY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1010",
+      "category_name": "NATURAL_FEATURE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1011",
+      "category_name": "NEIGHBORHOOD",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1012",
+      "category_name": "POLITICAL",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1013",
+      "category_name": "POINT_OF_INTEREST",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1014",
+      "category_name": "POST_BOX",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1015",
+      "category_name": "POSTAL_CODE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1016",
+      "category_name": "POSTAL_CODE_PREFIX",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1017",
+      "category_name": "POSTAL_TOWN",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1018",
+      "category_name": "PREMISE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1019",
+      "category_name": "ROOM",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1020",
+      "category_name": "ROUTE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1021",
+      "category_name": "STREET_ADDRESS",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1022",
+      "category_name": "SUBLOCALITY",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1023",
+      "category_name": "SUBLOCALITY_LEVEL_1",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1024",
+      "category_name": "SUBLOCALITY_LEVEL_2",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1025",
+      "category_name": "SUBLOCALITY_LEVEL_3",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1026",
+      "category_name": "SUBLOCALITY_LEVEL_4",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1027",
+      "category_name": "SUBLOCALITY_LEVEL_5",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1028",
+      "category_name": "SUBPREMISE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1029",
+      "category_name": "SYNTHETIC_GEOCODE",
+      "revgeo_provider": "google"
+    },
+    {
+      "category_id": "1030",
+      "category_name": "TRANSIT_STATION",
+      "revgeo_provider": "google"
+    }
+  ]
+}

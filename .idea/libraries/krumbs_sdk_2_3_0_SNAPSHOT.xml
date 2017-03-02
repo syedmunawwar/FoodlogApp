@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="krumbs-sdk-2.3.0-SNAPSHOT">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/KrumbsSDKStarterProject/build/intermediates/exploded-aar/io.krumbs.sdk/krumbs-sdk/2.3.0-SNAPSHOT/res" />
+      <root url="jar://$PROJECT_DIR$/KrumbsSDKStarterProject/build/intermediates/exploded-aar/io.krumbs.sdk/krumbs-sdk/2.3.0-SNAPSHOT/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

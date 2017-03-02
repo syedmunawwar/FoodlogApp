@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                xmlns:custom="http://schemas.android.com/apk/res-auto"
+                xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="60dp"
+               android:layout_height="60dp"
+               android:id="@+id/emoji_image"
+               android:layout_marginRight="10dp"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_toRightOf="@id/emoji_image"
+              android:layout_marginLeft="10dp"
+              android:textSize="20sp"
+              android:id="@+id/intent_name"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_toRightOf="@id/emoji_image"
+              android:layout_below="@id/intent_name"
+              android:layout_marginLeft="10dp"
+              android:textSize="15sp"
+              android:id="@+id/intent_category"/>
+    <io.krumbs.sdk.dashboard.gadgets.library.Odometer
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            custom:num_digits="3"
+            custom:digit_size="50"
+            android:id="@+id/intent_freq_count"/>
+    <View android:layout_width="match_parent"
+          android:layout_height="2dp"
+          android:background="#CABBBBBB"
+          android:radius="1dp"
+          android:layout_marginTop="5dp"
+          android:layout_marginLeft="80dp"
+          android:layout_alignParentBottom="true"/>
+</RelativeLayout>

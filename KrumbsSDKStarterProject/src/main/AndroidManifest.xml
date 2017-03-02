@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016 Krumbs Inc.
+  ~ All rights reserved.
+  ~
+  -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.krumbs.sdk.starter" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:name=".StarterApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppThemeCustomOverflow" >
+        <meta-data
+            android:name="io.krumbs.sdk.APPLICATION_ID"
+            android:value="@string/krumbssdk_app_id" />
+        <meta-data
+            android:name="io.krumbs.sdk.CLIENT_KEY"
+            android:value="@string/krumbssdk_client_key" />
+
+        <activity
+            android:name=".Activitys.SplashActivity"
+            android:theme="@style/AppThemeCustomOverflow"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activitys.LoginActivity"/>
+        <activity android:name=".Activitys.MainActivity"/>
+        <activity android:name=".Activitys.RegisterActivity"/>
+        <activity android:name=".Activitys.PreferencesActivity"/>
+    </application>
+
+</manifest>

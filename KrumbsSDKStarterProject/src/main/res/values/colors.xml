@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cam">#24C4A3</color>
+    <color name="grey">#607D8B</color>
+    <color name="login">#8BC34A</color>
+    <color name="colorLoginView">#FAFAFA</color>
+    <color name="colorLoginText">#000000</color>
+    <color name="colorLoginHint">#3b3a36</color>
+    <color name="button_color">#e3e0cf</color>
+    <color name="colorPrimary">#C5E1A5</color>
+</resources>

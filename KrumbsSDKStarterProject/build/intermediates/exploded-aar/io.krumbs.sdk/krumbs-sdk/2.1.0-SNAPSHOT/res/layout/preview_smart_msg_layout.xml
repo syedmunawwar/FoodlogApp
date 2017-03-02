@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/qs_dynamic_page_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/preview_transparet_layer_color">
+
+    <RelativeLayout android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/preview_meu_container"
+                    android:layout_marginTop="@dimen/smartmsg_vertical_spacing">
+
+    <include android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    layout="@layout/preview_edit_menu_layout"/>
+    </RelativeLayout>
+</RelativeLayout>

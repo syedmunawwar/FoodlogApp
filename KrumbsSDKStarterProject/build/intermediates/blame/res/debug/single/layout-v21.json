@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\preferences.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\layout-v21\\preferences.xml"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

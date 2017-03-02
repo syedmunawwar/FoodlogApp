@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/tools" xmlns:custom="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/micro_report_frequency"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="@dimen/card_elevation"
+        android:layout_margin="@dimen/card_margin"
+        card_view:cardCornerRadius="@dimen/card_corner_radius">
+    <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+        <TextView android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_alignParentTop="true"
+                  android:layout_centerHorizontal="true"
+                  android:gravity="center"
+                  android:id="@+id/frequency_history_gadget_title_id"
+                  android:textSize="@dimen/title_text_size"
+                  android:layout_marginBottom="@dimen/title_bottom_margin"
+                  android:text="@string/micro_report_title"
+        />
+        <LinearLayout android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical"
+                      android:gravity="center"
+                      android:layout_alignParentLeft="true"
+                      android:layout_below="@id/frequency_history_gadget_title_id">
+            <io.krumbs.sdk.dashboard.gadgets.library.Odometer
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    custom:num_digits="@integer/freq_odometer_num_digits"
+                    custom:digit_size="@integer/freq_odometer_digit_size"
+                    android:id="@+id/frequency_counter"/>
+            <TextView android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/submitted_text"/>
+        </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical"
+                      android:gravity="center"
+                      android:layout_alignParentRight="true"
+                      android:layout_below="@id/frequency_history_gadget_title_id">
+            <com.robinhood.spark.SparkView
+                    android:id="@+id/frequency_history"
+                    android:layout_width="@dimen/sparkline_width"
+                    android:layout_height="@dimen/sparkline_height" />
+            <TextView android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/history_text"/>
+        </LinearLayout>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

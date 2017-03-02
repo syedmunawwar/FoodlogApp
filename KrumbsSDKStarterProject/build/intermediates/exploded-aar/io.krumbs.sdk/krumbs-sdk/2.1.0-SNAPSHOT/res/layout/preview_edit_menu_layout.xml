@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+    <RelativeLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:gravity="center"
+                  android:visibility="visible"
+                  android:id="@+id/menu_container"
+                  android:orientation="vertical">
+        <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:id="@+id/location_row_parent"
+                        android:layout_marginTop="10dp"
+                        android:visibility="visible"
+                        android:layout_height="@dimen/smartmsg_menu_option">
+            <TextView android:id="@+id/location_tag_icon"
+                      android:layout_width="wrap_content"
+                      android:layout_height="match_parent"
+                      android:gravity="center_vertical"
+                      android:layout_alignParentLeft="true"
+                      android:layout_marginRight="@dimen/preview_icon_text_space"
+                      android:layout_marginLeft="@dimen/smartmsg_menu_option_spacing"
+                      android:textColor="@color/preview_msg_tag_color"
+                      android:text="@string/fa_map_marker"
+                      android:textSize="18dp"/>
+            <TextView android:id="@+id/location_edit_icon"
+                      android:layout_width="wrap_content"
+                      android:layout_height="match_parent"
+                      android:layout_alignParentRight="true"
+                      android:gravity="center_vertical"
+                      android:layout_marginRight="@dimen/smartmsg_menu_option_spacing"
+                      android:text="@string/fa_pencil"
+                      android:textColor="@color/preview_msg_tag_color"
+                      android:textSize="18dp"/>
+
+            <TextView android:id="@+id/location_value_text"
+                      android:layout_width="match_parent"
+                      android:layout_height="match_parent"
+                      android:layout_toRightOf="@id/location_tag_icon"
+                      android:layout_marginLeft="10dp"
+                      android:layout_marginRight="5dp"
+                      android:scrollHorizontally="true"
+                      android:layout_centerHorizontal="true"
+                      android:maxLines="1"
+                      android:gravity="center_vertical"
+                      android:textColor="@color/preview_msg_text_color"
+                      android:textSize="@dimen/preview_text_size"
+                      android:layout_toLeftOf="@id/location_edit_icon"
+                      android:text="Kratin Software solution"
+            />
+        </RelativeLayout>
+        <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:id="@+id/event_row_parent"
+                        android:layout_marginTop="10dp"
+                        android:layout_below="@+id/location_row_parent"
+                        android:layout_height="@dimen/smartmsg_menu_option">
+            <TextView android:id="@+id/event_tag_icon"
+                      android:layout_width="wrap_content"
+                      android:layout_height="match_parent"
+                      android:gravity="center_vertical"
+                      android:layout_alignParentLeft="true"
+                      android:text="@string/fa_calendar_o"
+                      android:layout_marginLeft="@dimen/smartmsg_menu_option_spacing"
+                      android:layout_marginRight="@dimen/preview_icon_text_space"
+                      android:textColor="@color/preview_msg_tag_color"
+                      android:textSize="18dp"/>
+            <TextView android:id="@+id/event_edit_icon"
+                      android:layout_width="wrap_content"
+                      android:layout_height="match_parent"
+                      android:layout_alignParentRight="true"
+                      android:gravity="center_vertical"
+                      android:layout_marginRight="@dimen/smartmsg_menu_option_spacing"
+                      android:text="@string/fa_pencil"
+                      android:textColor="@color/preview_msg_tag_color"
+                      android:textSize="18dp"/>
+
+            <TextView android:id="@+id/event_value_text"
+                      android:layout_width="match_parent"
+                      android:layout_height="match_parent"
+                      android:layout_toRightOf="@id/event_tag_icon"
+                      android:layout_marginLeft="10dp"
+                      android:layout_marginRight="5dp"
+                      android:scrollHorizontally="true"
+                      android:layout_centerHorizontal="true"
+                      android:maxLines="1"
+                      android:gravity="center_vertical"
+                      android:textColor="@color/preview_msg_text_color"
+                      android:textSize="@dimen/preview_text_size"
+                      android:layout_toLeftOf="@id/event_edit_icon"
+                      android:text="July 7, 2016"
+            />
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:id="@+id/menu_handle_row"
+                    android:background="@color/smrt_msg_handler_color"
+                    android:layout_below="@+id/menu_container">
+    <TextView android:id="@+id/menu_handle"
+              android:layout_width="wrap_content"
+              android:layout_height="@dimen/smartmsg_handler_size"
+              android:scrollHorizontally="true"
+              android:gravity="center"
+              android:layout_marginTop="10dp"
+              android:text="@string/fa_chevron_down"
+              android:textSize="30sp"
+              android:textColor="@color/white"/>
+    </RelativeLayout>
+</RelativeLayout>

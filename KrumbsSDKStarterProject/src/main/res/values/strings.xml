@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016 Krumbs Inc
+  ~ All rights reserved.
+  ~
+  -->
+<resources>
+    <string name="krumbssdk_app_id">PCZDYD3it5M-KRv21oKuLxaflJXBjQE3MWgN41SVasQ=</string>
+    <string name="krumbssdk_client_key">pi-wVKqwuOrwBmbFsMNmBwaa1Z9XxYv892zwnyP1WS0=</string>
+
+    <string name="app_name">SpoonSnap</string>
+
+    <string name="hello_world">Hello World!</string>
+    <string name="krumbs_sdk_app">Krumbs SDK Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="kcapturebuttonLabel">Start K-Capture</string>
+    <string name="font">fonts/DroidSans.ttf</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_email">Enter Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_link_to_login">Already Registered, Let\'s Login!</string>
+    <string name="btnRegister">Register</string>
+</resources>

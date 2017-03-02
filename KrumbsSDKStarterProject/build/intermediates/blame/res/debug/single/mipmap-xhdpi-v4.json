@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\male_login.png",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\mipmap-xhdpi\\male_login.png"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\preferences.png",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\mipmap-xhdpi\\preferences.png"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\logo.png",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\hamburger_100.png",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\mipmap-xhdpi\\hamburger_100.png"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\male_edit.png",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\mipmap-xhdpi\\male_edit.png"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\icon.png",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\exploded-aar\\io.krumbs.sdk\\krumbs-sdk\\2.3.0-SNAPSHOT\\res\\mipmap-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\logout.png",
+        "source": "F:\\final year project\\spoonsnap\\KrumbsSDKStarterProject\\src\\main\\res\\mipmap-xhdpi\\logout.png"
+    }
+]
